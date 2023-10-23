@@ -1,0 +1,3 @@
+Sobre o uso de Document.Write
+muito bom, explica como adicionar um botão que atualiza e sobescreve o html
+https://www.youtube.com/watch?v=WVBasDB8A8c
